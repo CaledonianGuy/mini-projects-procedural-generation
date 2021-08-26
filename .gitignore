@@ -35,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/Scenes/
+Assets/SkySerie Freebie/
+Assets/Graphics/
+Scenes.meta
+SkySerie Freebie.meta
+Graphics.meta
